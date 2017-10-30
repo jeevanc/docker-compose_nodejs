@@ -1,4 +1,4 @@
-#Docker Compose test
+# Docker Compose test
 
 ## From the docker file
 Build the image as
